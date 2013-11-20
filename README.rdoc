@@ -5,11 +5,11 @@
 [@trostli](https://github.com/trostli)
 [@JonathanTR](https://github.com/JonathanTR)
 
-## Brief Overview
+== Brief Overview
 
 * We created this web app in order to have a forum to post technical interview questions and be able to discuss them.
 
-## My Role in the Project
+== My Role in the Project
 * I paired with [@schmeadyy](https://github.com/shmeadyy) to develop the user ability to ask questions and the associated controller routes
 * I developed the associations between users, questions, answers.
 * Since we decided to add user login after the question route was already established, I restructured our routes and wrote multiple tests to enable the interaction between users and the rest of our application
